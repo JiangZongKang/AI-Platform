@@ -11,10 +11,10 @@ const COMMIT_ID = process
   .trim();
 
 export const metadata = {
-  title: "ChatGPT Next Web",
+  title: "Zongkang & Lulu's AI Platform",
   description: "Your personal ChatGPT Chat Bot.",
   appleWebApp: {
-    title: "ChatGPT Next Web",
+    title: "Zongkang & Lulu's AI Platform",
     statusBarStyle: "black-translucent",
   },
   themeColor: "#fafafa"
